@@ -26,7 +26,7 @@ Here are a few things I've been working on:
 ## 📚 Currently Learning
 
 - Machine Learning Algorithms
-- Deep Learning
+- Deep Learning(NLP,OpenCV,GenAI)
 - Data Structures And Algorithms
   
 
